@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+ydata-profiling
+mlxtend
+setuptools==68.2.2
+openpyxl          # for reading Excel files
+requests          # to download dataset
