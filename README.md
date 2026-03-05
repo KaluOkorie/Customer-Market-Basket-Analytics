@@ -56,7 +56,7 @@ https://public.tableau.com/shared/HWYCJNB45?:display_count=n&:origin=viz_share_l
 2. Dashboard  
 https://public.tableau.com/shared/S2NT7BRN3?:display_count=n&:origin=viz_share_link
 
-## Recruiter summary
+## summary
 This is a practical analytics project that demonstrates end to end ownership.
 1. Data ingestion and rigorous cleaning.
 2. Customer and product intelligence modeling.
